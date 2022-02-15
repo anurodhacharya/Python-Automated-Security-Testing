@@ -34,4 +34,9 @@ jobs:
         
     - name: Bandit Check
       uses: jpetrucciani/bandit-check@1.6.2
+      
+    - name: Own Commands
+      run: |
+        echo "This is ls command"
+        ls -la
 
