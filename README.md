@@ -1,1 +1,1 @@
-# Python-Autometed-Security-Testing
+# Python-Automated-Security-Testing
